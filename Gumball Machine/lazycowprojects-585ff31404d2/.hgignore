@@ -1,0 +1,8 @@
+glob:*/_ReSharper.*
+glob:*.suo
+glob:*.user
+glob:*/_vsaddin/_build
+glob:*.orig
+glob:*.ncb
+glob:*/bin/Debug/*
+glob:*/obj/*
